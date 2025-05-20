@@ -1,3 +1,8 @@
+```
+Developed by : HARI RAM R
+Register number : 212224240050
+Department: BTECH AIML
+```
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
